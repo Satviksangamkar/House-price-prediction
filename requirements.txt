@@ -3,4 +3,4 @@ pandas
 matplotlib
 pandas
 scikit-learn
-statsmodels
+statsmodelsgi
